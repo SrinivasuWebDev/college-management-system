@@ -1,0 +1,38 @@
+[
+  {
+    "name": "John Doe",
+    "course": "Computer Science",
+    "collegeId": "191A4523"
+  },
+  {
+    "name": "Jane Smith",
+    "course": "Electrical Engineering",
+    "collegeId": "192A4235"
+  },
+  {
+    "name": "Alice Johnson",
+    "course": "Mechanical Engineering",
+    "collegeId": "193A4126"
+  },
+  {
+    "name": "Michael Brown",
+    "course": "Civil Engineering",
+    "collegeId": "194A4897"
+  },
+  {
+    "name": "Emily Davis",
+    "course": "Biotechnology",
+    "collegeId": "195A4568"
+  },
+  {
+    "name": "Robert Wilson",
+    "course": "Information Technology",
+    "collegeId": "196A4789"
+  },
+  {
+    "name": "Sophia Martinez",
+    "course": "Mathematics",
+    "collegeId": "197A4890"
+  }
+]
+

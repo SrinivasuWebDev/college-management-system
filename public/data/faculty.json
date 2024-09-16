@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Dr. Alan Smith",
+    "department": "Computer Science",
+    "facultyId": "FCS001"
+  },
+  {
+    "name": "Prof. Emily Johnson",
+    "department": "Electrical Engineering",
+    "facultyId": "FEE002"
+  },
+  {
+    "name": "Dr. Michael Brown",
+    "department": "Mechanical Engineering",
+    "facultyId": "FME003"
+  },
+  {
+    "name": "Dr. Sarah Wilson",
+    "department": "Civil Engineering",
+    "facultyId": "FCE004"
+  },
+  {
+    "name": "Prof. Linda Davis",
+    "department": "Biotechnology",
+    "facultyId": "FBT005"
+  },
+  {
+    "name": "Dr. James Wilson",
+    "department": "Information Technology",
+    "facultyId": "FIT006"
+  },
+  {
+    "name": "Prof. Rachel Martinez",
+    "department": "Mathematics",
+    "facultyId": "FMA007"
+  }
+]
